@@ -23,7 +23,7 @@ const MobileNotSupported = (props) => {
         title={'Blueportals'}
         className={classes.title}
       >
-        Hire<span className={classes.titleHighlight}>Smart</span>
+        Blue<span className={classes.titleHighlight}>Portals</span>
       </Typography>
 
       <Typography
