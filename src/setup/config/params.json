@@ -1,15 +1,15 @@
 {
   "site": {
-    "version": 0.3,
-    "name": "BLUEPORTALS",
+    "version": 0.1,
+    "name": "BLUEPORTAL",
     "domain": "blueportals.app",
-    "url": "https://blueportals.app",
-    "title": "BLUEPORTALS - Streamline your hiring process, scheduling interviews and tracking candidates.",
+    "url": "https://blueportalsats.herokuapp.com",
+    "title": "BLUEPORTAL - Streamline your hiring process, scheduling interviews and tracking candidates.",
     "description": "An online application to streamline your hiring process, scheduling interviews and tracking candidates.",
-    "keywords": "hiring, recruiter, recruitment, staffing, onboarding, tracking, interviews, feedback, candidate, streamline",
-    "author": "BLUEPORTALS",
-    "copyright": "BLUEPORTALS",
-    "applicationName": "BLUEPORTALS",
+    "keywords": "blueportal, hiring, recruiter, recruitment, staffing, onboarding, tracking, interviews, feedback, candidate, streamline",
+    "author": "BLUEPORTAL",
+    "copyright": "BLUEPORTAL",
+    "applicationName": "BLUEPORTAL",
     "copyright_year": 2021,
     "image": "logo.png"
   },

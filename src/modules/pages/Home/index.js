@@ -63,10 +63,10 @@ class Home extends PureComponent {
         <div className={classes.hero}>
           <Typography
             variant={'h1'}
-            title={'BluePortals'}
+            title={'BluePortal'}
             className={classes.title}
           >
-            Blue<span className={classes.titleHighlight}>Portals</span>
+            Blue<span className={classes.titleHighlight}>Portal</span>
           </Typography>
 
           <Typography
@@ -189,7 +189,7 @@ class Home extends PureComponent {
               gutterBottom
               className={classes.featureItemTitle}
             >
-              From the moment you get a resume to either the candidate is selected or rejected, BLUEPORTALS ATS enables you manage everything in between efficiently.
+              From the moment you get a resume to either the candidate is selected or rejected, BLUEPORTAL ATS enables you manage everything in between efficiently.
             </Typography>
           </div>
 

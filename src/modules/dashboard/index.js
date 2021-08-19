@@ -23,7 +23,7 @@ class Dashboard extends React.Component {
         <div className={classes.root}>
           {/* Meta tags */}
           <Helmet>
-            <title>Dashboard - { params.site.name }</title>
+            <title>Dashboard - BluePortal</title>
           </Helmet>
 
           {/* Sidebar */}

@@ -92,7 +92,7 @@ class Header extends PureComponent {
             {/* Logo */}
             <Typography variant={'h6'} color={'inherit'} className={classes.title}>
               <Link to={user.isAuthenticated ? routes.dashboard.path : routes.home.path}>
-                { this.isNotHomePage() && <span>Blue<span className={classes.titleHighlight}>Portals</span></span> }
+                { this.isNotHomePage() && <span>Blue<span className={classes.titleHighlight}>Portal</span></span> }
               </Link>
             </Typography>
 

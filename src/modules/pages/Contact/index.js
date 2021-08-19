@@ -22,7 +22,7 @@ const Contact = (props) => {
       <div>
         {/* Meta tags */}
         <Helmet>
-          <title>Contact - Blueportals</title>
+          <title>Contact - Blueportal</title>
         </Helmet>
 
         {/* Toolbar - Heading */}

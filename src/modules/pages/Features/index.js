@@ -23,7 +23,7 @@ const Features = (props) => {
       <div>
         {/* Meta tags */}
         <Helmet>
-          <title>Features - Blueportals</title>
+          <title>Features - Blueportal</title>
         </Helmet>
 
         {/* Toolbar - Heading */}
